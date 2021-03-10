@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8858" started-at="2020-01-31T12:32:42Z" finished-at="2020-01-31T12:32:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8858" started-at="2020-01-31T12:32:42Z" finished-at="2020-01-31T12:32:51Z">
+      <class name="com.api.testScripts.FetchUserIdTest">
+        <test-method status="PASS" signature="fetchUserIdTest()[pri:0, instance:com.api.testScripts.FetchUserIdTest@3a82f6ef]" name="fetchUserIdTest" duration-ms="2907" started-at="2020-01-31T18:02:46Z" finished-at="2020-01-31T18:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchUserIdTest -->
+      </class> <!-- com.api.testScripts.FetchUserIdTest -->
+      <class name="com.api.testScripts.AddDataTest">
+        <test-method status="PASS" signature="addDataTest()[pri:0, instance:com.api.testScripts.AddDataTest@d2cc05a]" name="addDataTest" duration-ms="4207" started-at="2020-01-31T18:02:42Z" finished-at="2020-01-31T18:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDataTest -->
+      </class> <!-- com.api.testScripts.AddDataTest -->
+      <class name="com.api.testScripts.FetchAllCountryTest">
+        <test-method status="PASS" signature="fetchAllCountryTest()[pri:0, instance:com.api.testScripts.FetchAllCountryTest@4f933fd1]" name="fetchAllCountryTest" duration-ms="1696" started-at="2020-01-31T18:02:49Z" finished-at="2020-01-31T18:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchAllCountryTest -->
+      </class> <!-- com.api.testScripts.FetchAllCountryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
